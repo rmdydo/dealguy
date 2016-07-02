@@ -1,0 +1,26 @@
+{
+  "closedFiles": [
+    {
+      "fileName": "sounds/DealClosed_01.wav",
+      "switchDelay": 42,
+      "switchDuration": 33
+    },
+    {
+      "fileName": "sounds/DealClosed_02.wav",
+      "switchDelay": 41,
+      "switchDuration": 36
+    }
+  ],
+  "moraleBoostFiles": [
+    {
+      "fileName": "sounds/MoraleBoost_01.wav",
+      "delay": 0,
+      "switchDuration": 0
+    },
+    {
+      "fileName": "sounds/MoraleBoost_02.wav",
+      "delay": 0,
+      "switchDuration": 0
+    }
+  ]
+}
