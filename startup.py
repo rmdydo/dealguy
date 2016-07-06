@@ -17,8 +17,8 @@ url = json.loads(request.text)["tunnels"][0]["public_url"]
 
 print "ngrok url is: " + url
 
-token = '48a52040a980c17137133eaa88f822c'
-request = requests.post('https://www.squadup.com/deals/set-domain', data={'url': url, 'token': token})
+token = '[REDACTED]'
+request = requests.post('https://REDACTED.com/deals/set-domain', data={'url': url, 'token': token})
 print request.text
 
 print call(["node", path + "index.js"])
